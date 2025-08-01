@@ -1,3 +1,4 @@
+
 [theme]
 primaryColor = "#64ffda"
 backgroundColor = "#0f1419"
@@ -6,5 +7,9 @@ textColor = "#e1e5e9"
 
 [server]
 headless = true
-port = $PORT
+port = 8502
 enableCORS = false
+address = "127.0.0.1"
+
+[browser]
+gatherUsageStats = false

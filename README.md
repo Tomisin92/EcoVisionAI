@@ -61,7 +61,7 @@ To democratize environmental analysis by making advanced AI technology accessibl
 ## 🎥 Live Demo
 
 ### 🌐 **Try It Now**
-**Live Application**: [https://ecovisionai-2025.streamlit.app](https://ecovisionai-2025.streamlit.app)
+**Live Application**: [https://ecovisionai-1.onrender.com](https://ecovisionai-1.onrender.com)
 
 ### 📱 **Example Use Cases**
 1. **Forest Ecosystem Analysis**: Upload forest images to assess biodiversity and tree health
